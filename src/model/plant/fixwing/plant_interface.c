@@ -40,9 +40,9 @@ MCN_DECLARE(states_init);
 
 /* define parameters */
 static param_t __param_list[] = {
-    PARAM_DOUBLE(LAT_0, 0.65673, false),
-    PARAM_DOUBLE(LON_0, -2.1361, false),
-    PARAM_DOUBLE(ALT_0, 4.5, false),
+    PARAM_DOUBLE(LAT_0, 0.69813, false),
+    PARAM_DOUBLE(LON_0, 2.03017, false),
+    PARAM_DOUBLE(ALT_0, 44.0, false),
 };
 PARAM_GROUP_DEFINE(PLANT, __param_list);
 

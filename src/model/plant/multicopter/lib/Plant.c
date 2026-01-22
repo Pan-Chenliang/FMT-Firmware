@@ -70,9 +70,9 @@ const AirSpeed_Bus Plant_rtZAirSpeed_Bus = {
 
 /* Exported block parameters */
 struct_3bORdf2BsPDFMyyhwl9bpH PLANT_PARAM = {
-  0.65673,
-  -2.1361,
-  4.5
+  0.69813,
+  2.03017,
+  44.0
 } ;                                    /* Variable: PLANT_PARAM
                                         * Referenced by:
                                         *   '<S2>/Constant1'
